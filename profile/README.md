@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### This is an open source production app of a password manager to serve as a template for the cmmunity 😊
+### This is an open-source production app of a password manager to serve as a template for the community 😊
 
 ---
 
