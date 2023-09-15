@@ -1,20 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-### This is an open-source production app of a password manager to serve as a template for the community 😊
+## 🙌  About us
 
----
+Vaultexe is a an open source self hosting project that aims to provide a simple production ready solution to manage your passwords and secrets. This project is not made to compete with other password managers but to contribute to the open source community by showcasing how to implement them using modern technologies like Docker, Traefik, FastApi, Postgresql, Redis, Nextjs, React.js, etc.
 
-### Contribution
+## 🤝 Contributing
 
-#### Feel free to create a PR on the `dev` branches to improve the codebase / fix bugs / add features
+Feel free to contribute to this project by opening issues or pull requests 😁
 
-<!--
+## 🚀 Getting started
 
-**Here are some ideas to get you started:**
+### Setup 🏗️
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+1. Use linux or WSL2 on windows
+2. Install docker and docker-compose
+3. Clone [**Vaultexe**](https://github.com/Vaultexe/vaultexe) repository
+4. Run `./scripts/clone-repos.sh` to clone all the vaultex repositories
+5. Edit all `.env` files in all repositories to match your needs
+6. Run `./scripts/run.sh` to spin up vaultexe services on dev mode
+
+### Contributing 🔨
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Create a pull request
+5. Wait for the review and merge 🥳
