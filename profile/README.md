@@ -15,7 +15,7 @@ Feel free to contribute to this project by opening issues or pull requests 😁
 1. Use linux or WSL2 on windows
 2. Install docker and docker-compose
 3. Clone [**Vaultexe**](https://github.com/Vaultexe/vaultexe) super repository
-4. Run `./scripts/clone-repos.sh` to clone all the vaultex repositories
+4. Run `./scripts/clone-repos.sh` to clone all the vaultexe repositories
 5. Checkout all respositories READEMEs to complete their setup & edit the environment variables
 6. Run `./scripts/run.sh` to spin up vaultexe services on dev mode
 
